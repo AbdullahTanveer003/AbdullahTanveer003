@@ -1,83 +1,122 @@
+# 👋 Abdullah Tanveer
+
 <div align="center">
 
-<!-- Premium Minimal Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Abdullah%20Tanveer&fontSize=50&fontColor=10b981&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=65&descSize=16&descColor=9ca3af" width="100%"/>
+### Full Stack Developer | AI Integration Specialist | Mobile & Web Apps Builder
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tanveer-570216338/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabdullahtanveer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-<!-- Dynamic Typography -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=MERN+Stack+Enterprise+Solutions;Cross-Platform+Flutter+Applications;AI-Driven+Web+Architectures" />
+---
 
-<p align="center">
-  <a href="mailto:iamabdullahtanveer@gmail.com"><img src="https://img.shields.io/badge/Email-iamabdullahtanveer%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/abdullah-tanveer-570216338/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Tanveer-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-</p>
+</div>
+
+## 🎯 About Me
+
+Full-stack developer passionate about **building web and mobile apps with AI integration**. I specialize in creating scalable, user-friendly applications that leverage modern technologies and artificial intelligence to solve real-world problems.
+
+Currently exploring the intersection of **web development, mobile apps, and AI** to build innovative solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ **StudyGenie AI**
+AI study assistant for students with PDF upload, AI chat, quizzes, weak-topic analysis, and study planner.
+
+**Tech Stack:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Groq API` • `MongoDB`
+
+[View Project](#) | [GitHub](#)
+
+---
+
+### 2️⃣ **Churn Prediction System**
+Predicts user churn to help businesses identify at-risk customers and improve retention strategies.
+
+**Tech Stack:** `React.js` • `Tailwind CSS` • `Machine Learning` • `Python`
+
+[View Project](#) | [GitHub](#)
+
+---
+
+### 3️⃣ **E-Commerce Mobile App (Shamas Al Kananah)**
+Premium hardware, tools, electrical, and plumbing e-commerce application with seamless checkout and inventory management.
+
+**Tech Stack:** `Flutter` • `Dart` • `Firebase` • `Payment Integration`
+
+[View Project](#) | [GitHub](#)
+
+---
+
+## 💻 Tech Stack
+
+### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### **Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### **Backend & Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### **AI & ML**
+![Groq API](https://img.shields.io/badge/Groq_API-FFD700?style=flat-square&logo=api&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/ML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📚 Current Learning
+
+- 🌐 **Advanced MERN Stack** - Building scalable full-stack applications
+- 🤖 **AI Integration in Web Apps** - Leveraging APIs like Groq for intelligent features
+- 📱 **Flutter App Development** - Cross-platform mobile app development
+- 🧠 **Machine Learning** - Predictive modeling and data analysis
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 **Build deployable SaaS products** - Create production-ready applications
+- 💼 **Secure top internship/job** - Land a role at a leading tech company
+- 🤖 **Build AI-powered applications** - Integrate cutting-edge AI into all projects
+- 🌍 **Launch own startup** - Turn ideas into scalable businesses
+- 📱 **Publish mobile apps** - Release apps on App Store and Google Play
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 👨‍💻 Executive Summary
+## 🤝 Let's Connect
 
-I am a forward-thinking **Computer Science student at the University of Gujrat**, specializing in engineering scalable architectures across web, mobile, and AI-driven ecosystems. With hands-on experience spanning the **MERN Stack**, **Flutter cross-platform development**, and **intelligent system integrations**, I bridge the gap between complex backend logic and sleek, user-centric frontends.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-* 🚀 **Core Focus:** Building production-ready software, microservices, and specialized AI tools.
-* 🤝 **Collaboration:** Actively seeking **MERN Stack**, **Flutter**, or **AI/ML Developer** internship opportunities to contribute to high-impact engineering teams.
+📧 **Email:** [iamabdullahtanveer@gmail.com](mailto:iamabdullahtanveer@gmail.com)
 
----
-
-## ⚡ Technical Matrix
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend Engineering** | `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Tailwind CSS` |
-| **Backend & Cloud** | `Node.js` `Express.js` `RESTful APIs` `Firebase Authentication & Functions` |
-| **Mobile Architecture** | `Flutter` `Dart` `State Management (Provider/Bloc)` |
-| **Database Systems** | `MongoDB` `MySQL` `Firebase Firestore` |
-| **AI / Machine Learning** | `Python` `Scikit-learn` `Groq API Cloud` `LLM Prompt Engineering` |
-| **DevOps & Tooling** | `Git` `GitHub` `Linux (Bash)` `Postman API Testing` `Figma Architecture` |
-
----
-
-## 🚀 Featured Engineering Projects
-
-### 🧠 StudyGenie AI — *Intelligent Learning Ecosystem*
-An advanced, AI-powered academic assistant featuring automated PDF ingestion, dynamic contextual AI chatting, custom quiz generation, and algorithm-driven weak-topic analysis.
-* **Architecture:** Next.js, TypeScript, Tailwind CSS, Groq API, MongoDB
-* 💻 [Access Repository](https://github.com/Abdullah012874/StudyGenie-AI)
-
-### 📊 Predictive Churn Analytics — *Business Intelligence Tool*
-A data-driven machine learning application engineered to analyze consumer behavior patterns and predict user attrition, empowering enterprises to proactively maximize retention strategies.
-* **Architecture:** React.js, Tailwind CSS, Python, Scikit-Learn
-* 💻 [Access Repository](https://github.com/Abdullah012874/Churn-Prediction-System)
-
-### 🛒 Shamas Al Kanana — *Enterprise E-Commerce Mobile App*
-A high-performance, cross-platform mobile marketplace designed specifically for industrial hardware, electrical, and plumbing sectors featuring instant sync and robust security.
-* **Architecture:** Flutter, Dart, Firebase Suite
-* 💻 [Access Repository](https://github.com/Abdullah012874/E-Commerce-App-Shamas-Al-Kananah)
-
----
-
-## 📈 Git Analytics & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.co/api?username=Abdullah012874&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah012874&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🎯 Current Engineering Roadmaps
-
-* **Advanced Architecture:** Mastering Microservices and Serverless patterns in MERN.
-* **Applied AI:** Implementing RAG (Retrieval-Augmented Generation) pipelines locally.
-* **Mobile Mastery:** Optimizing Flutter rendering pipelines and native platform channels.
+💼 **LinkedIn:** [Abdullah Tanveer](https://www.linkedin.com/in/abdullah-tanveer-570216338/)
 
 ---
 
 <div align="center">
 
-*Designed with precision. Driven by code.*  
-_© 2026 Abdullah Tanveer_
+### ⭐ If you find my work interesting, feel free to star my projects!
+
+**Made with ❤️ by Abdullah Tanveer**
 
 </div>
