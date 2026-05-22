@@ -1,116 +1,285 @@
 <div align="center">
 
-# ✨ Abdullah Tanveer
-
-## Full Stack Developer | AI Integration Specialist | Mobile & Web Apps Builder
-
-> *Building innovative web and mobile applications powered by artificial intelligence*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E293B,70:06B6D4,100:8B5CF6&text=ABDULLAH%20TANVEER&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20SaaS%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tanveer-570216338/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabdullahtanveer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+Scalable+Web+Applications;AI-Powered+Digital+Experiences;MERN+Stack+%7C+Flutter+%7C+Machine+Learning;Turning+Ideas+Into+Production+Products;Designing+Systems+That+Scale" />
 
----
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0F172A?style=for-the-badge&logo=devbox&logoColor=22D3EE"/>
+  
+  <img src="https://img.shields.io/badge/AI%20Integration-111827?style=for-the-badge&logo=openai&logoColor=8B5CF6"/>
+  
+  <img src="https://img.shields.io/badge/MERN%20%7C%20Flutter-1E293B?style=for-the-badge&logo=stackshare&logoColor=38BDF8"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahtanveer&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
+</p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-## 🎯 About Me
+# ⚡ ABOUT ME
 
-Full-stack developer passionate about **building web and mobile apps with AI integration**. I specialize in creating scalable, user-friendly applications that leverage modern technologies and artificial intelligence to solve real-world problems.
+<table>
+<tr>
+<td width="55%">
 
-Currently exploring the intersection of **web development, mobile apps, and AI** to build innovative solutions.
+```yaml
+Name: Abdullah Tanveer
+
+Role: Full Stack Developer
+
+Specialization:
+  - AI Powered Applications
+  - Modern Web Architectures
+  - Mobile App Development
+  - Machine Learning Systems
+
+Current Focus:
+  - SaaS Products
+  - Scalable MERN Applications
+  - AI Integrations
+  - Predictive ML Models
+
+Mission:
+  Build intelligent digital products
+  that combine performance, scalability,
+  and exceptional user experience.
+```
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahtanveer&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
-
-### 1️⃣ **StudyGenie AI**
-AI study assistant for students with PDF upload, AI chat, quizzes, weak-topic analysis, and study planner.
-
-**Tech Stack:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Groq API` • `MongoDB`
-
-[View Project](#) | [GitHub](#)
-
----
-
-### 2️⃣ **Churn Prediction System**
-Predicts user churn to help businesses identify at-risk customers and improve retention strategies.
-
-**Tech Stack:** `React.js` • `Tailwind CSS` • `Machine Learning` • `Python`
-
-[View Project](#) | [GitHub](#)
-
----
-
-### 3️⃣ **E-Commerce Mobile App (Shamas Al Kananah)**
-Premium hardware, tools, electrical, and plumbing e-commerce application with seamless checkout and inventory management.
-
-**Tech Stack:** `Flutter` • `Dart` • `Firebase` • `Payment Integration`
-
-[View Project](#) | [GitHub](#)
-
----
-
-## 💻 Tech Stack
-
-### **Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### **Backend & Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### **AI & ML**
-![Groq API](https://img.shields.io/badge/Groq_API-FFD700?style=flat-square&logo=api&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/ML-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 📚 Current Learning
-
-- 🌐 **Advanced MERN Stack** - Building scalable full-stack applications
-- 🤖 **AI Integration in Web Apps** - Leveraging APIs like Groq for intelligent features
-- 📱 **Flutter App Development** - Cross-platform mobile app development
-- 🧠 **Machine Learning** - Predictive modeling and data analysis
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 **Build deployable SaaS products** - Create production-ready applications
-- 💼 **Secure top internship/job** - Land a role at a leading tech company
-- 🤖 **Build AI-powered applications** - Integrate cutting-edge AI into all projects
-- 🌍 **Launch own startup** - Turn ideas into scalable businesses
-- 📱 **Publish mobile apps** - Release apps on App Store and Google Play
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-📧 **Email:** [iamabdullahtanveer@gmail.com](mailto:iamabdullahtanveer@gmail.com)
-
-💼 **LinkedIn:** [Abdullah Tanveer](https://www.linkedin.com/in/abdullah-tanveer-570216338/)
-
----
+# 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star my projects!
+<table>
+<tr>
+<td width="50%">
 
-**Made with ❤️ by Abdullah Tanveer**
+## 🤖 StudyGenie AI
+
+### AI • Education Platform
+
+AI-powered study assistant enabling students to:
+
+✔ Upload & analyze PDFs  
+✔ Chat with intelligent tutors  
+✔ Generate quizzes automatically  
+✔ Detect weak learning areas  
+✔ Create personalized study plans  
+
+### ⚙ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb" />
+</p>
+
+`Groq API` • `LLM Integration` • `AI Workflows`
+
+</td>
+
+<td width="50%">
+
+## 📊 Churn Prediction System
+
+### ML • Analytics Platform
+
+Machine learning solution designed to:
+
+✔ Predict customer churn  
+✔ Analyze user retention patterns  
+✔ Improve business decisions  
+✔ Reduce revenue loss using AI insights  
+
+### ⚙ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,python" />
+</p>
+
+`Machine Learning` • `Predictive Modeling`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📱 Shamas Al Kananah
+
+### Mobile • E-Commerce
+
+Premium e-commerce mobile application featuring:
+
+✔ Real-time inventory management  
+✔ Secure payment integration  
+✔ Smooth checkout experience  
+✔ Hardware & electrical catalog  
+
+### ⚙ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+`Cross Platform` • `Mobile Commerce`
+
+</td>
+
+<td width="50%">
+
+## 🚀 SaaS Vision
+
+### Innovation • Startup
+
+Currently focused on building:
+
+✔ AI-driven SaaS products  
+✔ Intelligent automation systems  
+✔ Scalable web platforms  
+✔ Startup-ready architectures  
+
+### 🎯 Goal
+
+`Launch Production SaaS Products by 2026`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🛠 TECH STACK
+
+<div align="center">
+
+## 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts" />
+
+<br/><br/>
+
+## ⚙ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python" />
+
+<br/><br/>
+
+## 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br/><br/>
+
+## 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br/><br/>
+
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
+---
+
+# 📈 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahtanveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=8B5CF6&text_color=E2E8F0"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtanveer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0"/>
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdullahtanveer&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahtanveer&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🎯 2026 OBJECTIVES
+
+<div align="center">
+
+| Goal | Focus Area |
+|---|---|
+| 🚀 Launch SaaS Products | Production Deployment |
+| 🤖 Build AI Applications | Intelligent Systems |
+| 💼 Top Tech Internship / Role | Career Growth |
+| 🌍 Launch a Startup | Scalable Innovation |
+| 📱 Publish Mobile Apps | App Store & Google Play |
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:iamabdullahtanveer@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abdullah-tanveer-570216338/">
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+</a>
+
+<a href="https://github.com/abdullahtanveer">
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+
+</div>
+
+---
+
+# 💭 PHILOSOPHY
+
+<div align="center">
+
+> ### *"The best software is invisible — it simply works and improves lives."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,50:06B6D4,100:0F172A"/>
 
 </div>
