@@ -1,98 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:1e293b&height=220&section=header&text=Abdullah%20Tanveer&fontSize=55&fontColor=06b6d4&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Flutter%20Developer%20|%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Premium Minimal Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Abdullah%20Tanveer&fontSize=50&fontColor=10b981&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Mobile%20Developer&descAlignY=65&descSize=16&descColor=9ca3af" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+%26+Mobile+Apps;MERN+Stack+Developer+%F0%9F%92%BB;Flutter+App+Developer+%F0%9F%93%B1;AI+Integrated+Systems+%F0%9F%A4%96" />
+<!-- Dynamic Typography -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2000&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=MERN+Stack+Enterprise+Solutions;Cross-Platform+Flutter+Applications;AI-Driven+Web+Architectures" />
+
+<p align="center">
+  <a href="mailto:iamabdullahtanveer@gmail.com"><img src="https://img.shields.io/badge/Email-iamabdullahtanveer%40gmail.com-10b981?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/abdullah-tanveer-570216338/"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Tanveer-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Executive Summary
 
-💻 BSCS Student at University of Gujrat  
-🚀 Passionate about building scalable **Web + Mobile + AI systems**  
-📱 MERN Stack & Flutter Developer  
-🤖 Exploring real-world AI integrations  
-🎯 Focused on building production-level applications  
-🤝 Open to internships and collaborations  
+I am a forward-thinking **Computer Science student at the University of Gujrat**, specializing in engineering scalable architectures across web, mobile, and AI-driven ecosystems. With hands-on experience spanning the **MERN Stack**, **Flutter cross-platform development**, and **intelligent system integrations**, I bridge the gap between complex backend logic and sleek, user-centric frontends.
+
+* 🚀 **Core Focus:** Building production-ready software, microservices, and specialized AI tools.
+* 🤝 **Collaboration:** Actively seeking **MERN Stack**, **Flutter**, or **AI/ML Developer** internship opportunities to contribute to high-impact engineering teams.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technical Matrix
 
-**Frontend**  
-HTML • CSS • JavaScript • React.js • Next.js • Tailwind CSS • TypeScript
-
-**Backend**  
-Node.js • Express.js • REST APIs • Firebase
-
-**Mobile Development**  
-Flutter • Dart
-
-**Databases**  
-MongoDB • MySQL • Firebase
-
-**AI / ML**  
-Python • Scikit-learn • Groq API • Machine Learning Basics
-
-**Tools**  
-Git • GitHub • VS Code • Postman • Figma • Linux
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend Engineering** | `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Tailwind CSS` |
+| **Backend & Cloud** | `Node.js` `Express.js` `RESTful APIs` `Firebase Authentication & Functions` |
+| **Mobile Architecture** | `Flutter` `Dart` `State Management (Provider/Bloc)` |
+| **Database Systems** | `MongoDB` `MySQL` `Firebase Firestore` |
+| **AI / Machine Learning** | `Python` `Scikit-learn` `Groq API Cloud` `LLM Prompt Engineering` |
+| **DevOps & Tooling** | `Git` `GitHub` `Linux (Bash)` `Postman API Testing` `Figma Architecture` |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🔥 StudyGenie AI
-AI-powered study assistant with PDF upload, AI chat, quizzes, weak-topic analysis, and smart study planning.  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Groq API, MongoDB  
-🔗 https://github.com/Abdullah012874/StudyGenie-AI  
+### 🧠 StudyGenie AI — *Intelligent Learning Ecosystem*
+An advanced, AI-powered academic assistant featuring automated PDF ingestion, dynamic contextual AI chatting, custom quiz generation, and algorithm-driven weak-topic analysis.
+* **Architecture:** Next.js, TypeScript, Tailwind CSS, Groq API, MongoDB
+* 💻 [Access Repository](https://github.com/Abdullah012874/StudyGenie-AI)
 
----
+### 📊 Predictive Churn Analytics — *Business Intelligence Tool*
+A data-driven machine learning application engineered to analyze consumer behavior patterns and predict user attrition, empowering enterprises to proactively maximize retention strategies.
+* **Architecture:** React.js, Tailwind CSS, Python, Scikit-Learn
+* 💻 [Access Repository](https://github.com/Abdullah012874/Churn-Prediction-System)
 
-### 📊 Churn Prediction System
-Machine learning system that predicts user churn to help businesses improve retention and decision making.  
-**Tech:** React.js, Tailwind CSS, Machine Learning  
-🔗 https://github.com/Abdullah012874/Churn-Prediction-System  
-
----
-
-### 🛒 E-Commerce Mobile App (Shamas Al Kanana)
-Modern mobile shopping app for hardware, electrical, plumbing, and tools with smooth UI/UX.  
-**Tech:** Flutter, Dart, Firebase  
-🔗 https://github.com/Abdullah012874/E-Commerce-App-Shamas-Al-Kananah  
+### 🛒 Shamas Al Kanana — *Enterprise E-Commerce Mobile App*
+A high-performance, cross-platform mobile marketplace designed specifically for industrial hardware, electrical, and plumbing sectors featuring instant sync and robust security.
+* **Architecture:** Flutter, Dart, Firebase Suite
+* 💻 [Access Repository](https://github.com/Abdullah012874/E-Commerce-App-Shamas-Al-Kananah)
 
 ---
 
-## 🎯 Current Focus
+## 📈 Git Analytics & Metrics
 
-- Advanced MERN Stack Development  
-- AI Integration in Web Applications  
-- Flutter Cross-Platform Apps  
-- Machine Learning Fundamentals  
-
----
-
-## 💼 Internship Status
-
-Actively looking for:
-- MERN Stack Developer Internship  
-- Flutter Developer Internship  
-- AI / ML Developer Internship  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.co/api?username=Abdullah012874&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah012874&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 📬 Contact Me
+## 🎯 Current Engineering Roadmaps
 
-📧 Email: **iamabdullahtanveer@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/abdullah-tanveer-570216338/
+* **Advanced Architecture:** Mastering Microservices and Serverless patterns in MERN.
+* **Applied AI:** Implementing RAG (Retrieval-Augmented Generation) pipelines locally.
+* **Mobile Mastery:** Optimizing Flutter rendering pipelines and native platform channels.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:1e293b&height=120&section=footer"/>
+*Designed with precision. Driven by code.*  
+_© 2026 Abdullah Tanveer_
 
 </div>
