@@ -1,8 +1,12 @@
-# 👋 Abdullah Tanveer
-
 <div align="center">
 
-### Full Stack Developer | AI Integration Specialist | Mobile & Web Apps Builder
+# ✨ Abdullah Tanveer
+
+## Full Stack Developer | AI Integration Specialist | Mobile & Web Apps Builder
+
+> *Building innovative web and mobile applications powered by artificial intelligence*
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tanveer-570216338/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamabdullahtanveer@gmail.com)
@@ -11,6 +15,8 @@
 ---
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 About Me
 
@@ -88,18 +94,6 @@ Premium hardware, tools, electrical, and plumbing e-commerce application with se
 - 🤖 **Build AI-powered applications** - Integrate cutting-edge AI into all projects
 - 🌍 **Launch own startup** - Turn ideas into scalable businesses
 - 📱 **Publish mobile apps** - Release apps on App Store and Google Play
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-</div>
 
 ---
 
