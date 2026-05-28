@@ -1,285 +1,159 @@
-<div align="center">
+# Abdullah Tanveer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:1E293B,70:06B6D4,100:8B5CF6&text=ABDULLAH%20TANVEER&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20SaaS%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=500&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Building+Scalable+Web+Applications;AI-Powered+Digital+Experiences;MERN+Stack+%7C+Flutter+%7C+Machine+Learning;Turning+Ideas+Into+Production+Products;Designing+Systems+That+Scale" />
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0F172A?style=for-the-badge&logo=devbox&logoColor=22D3EE"/>
-  
-  <img src="https://img.shields.io/badge/AI%20Integration-111827?style=for-the-badge&logo=openai&logoColor=8B5CF6"/>
-  
-  <img src="https://img.shields.io/badge/MERN%20%7C%20Flutter-1E293B?style=for-the-badge&logo=stackshare&logoColor=38BDF8"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahtanveer&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
-</p>
-
-</div>
+**Full Stack Developer | AI Engineer | SaaS Builder**
 
 ---
 
-# ⚡ ABOUT ME
+## About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm a full stack developer and AI engineer focused on building scalable, intelligent digital products. My expertise spans modern web architectures, machine learning integration, and mobile app development. Currently building production-ready SaaS applications and exploring AI-powered solutions.
 
-```yaml
-Name: Abdullah Tanveer
-
-Role: Full Stack Developer
-
-Specialization:
-  - AI Powered Applications
-  - Modern Web Architectures
-  - Mobile App Development
-  - Machine Learning Systems
-
-Current Focus:
-  - SaaS Products
-  - Scalable MERN Applications
-  - AI Integrations
-  - Predictive ML Models
-
-Mission:
-  Build intelligent digital products
-  that combine performance, scalability,
-  and exceptional user experience.
-```
-
-</td>
-
-<td width="45%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahtanveer&theme=tokyonight"/>
-
-</td>
-</tr>
-</table>
+**Core Focus:**
+- Building performant, scalable MERN applications
+- Integrating AI/ML into production systems
+- Creating seamless user experiences across web and mobile
+- Turning ambitious ideas into market-ready products
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## Featured Projects
 
-<div align="center">
+### 🤖 StudyGenie AI
+**AI-Powered Education Platform**
 
-<table>
-<tr>
-<td width="50%">
+An intelligent study assistant that helps students learn more effectively.
 
-## 🤖 StudyGenie AI
+**Features:**
+- Upload and analyze PDF documents
+- Interactive chat with AI tutors
+- Automatic quiz generation
+- Learning weakness detection
+- Personalized study plan creation
 
-### AI • Education Platform
-
-AI-powered study assistant enabling students to:
-
-✔ Upload & analyze PDFs  
-✔ Chat with intelligent tutors  
-✔ Generate quizzes automatically  
-✔ Detect weak learning areas  
-✔ Create personalized study plans  
-
-### ⚙ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb" />
-</p>
-
-`Groq API` • `LLM Integration` • `AI Workflows`
-
-</td>
-
-<td width="50%">
-
-## 📊 Churn Prediction System
-
-### ML • Analytics Platform
-
-Machine learning solution designed to:
-
-✔ Predict customer churn  
-✔ Analyze user retention patterns  
-✔ Improve business decisions  
-✔ Reduce revenue loss using AI insights  
-
-### ⚙ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,python" />
-</p>
-
-`Machine Learning` • `Predictive Modeling`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 📱 Shamas Al Kananah
-
-### Mobile • E-Commerce
-
-Premium e-commerce mobile application featuring:
-
-✔ Real-time inventory management  
-✔ Secure payment integration  
-✔ Smooth checkout experience  
-✔ Hardware & electrical catalog  
-
-### ⚙ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-`Cross Platform` • `Mobile Commerce`
-
-</td>
-
-<td width="50%">
-
-## 🚀 SaaS Vision
-
-### Innovation • Startup
-
-Currently focused on building:
-
-✔ AI-driven SaaS products  
-✔ Intelligent automation systems  
-✔ Scalable web platforms  
-✔ Startup-ready architectures  
-
-### 🎯 Goal
-
-`Launch Production SaaS Products by 2026`
-
-</td>
-</tr>
-</table>
-
-</div>
+**Tech Stack:** Next.js • TypeScript • MongoDB • Groq API • Tailwind CSS
 
 ---
 
-# 🛠 TECH STACK
+### 📊 Churn Prediction System
+**Machine Learning Analytics Platform**
 
-<div align="center">
+Predictive analytics solution to identify at-risk customers and improve retention.
 
-## 🎨 Frontend Development
+**Features:**
+- Customer churn prediction models
+- User retention pattern analysis
+- Business decision insights
+- Revenue loss prevention
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts" />
-
-<br/><br/>
-
-## ⚙ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,python" />
-
-<br/><br/>
-
-## 📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-<br/><br/>
-
-## 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-<br/><br/>
-
-## 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
+**Tech Stack:** Python • React • Machine Learning • Predictive Modeling
 
 ---
 
-# 📈 GITHUB ANALYTICS
+### 📱 Shamas Al Kananah
+**Premium E-Commerce Mobile App**
 
-<div align="center">
+Full-featured mobile commerce application for hardware and electrical products.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahtanveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=8B5CF6&text_color=E2E8F0"/>
+**Features:**
+- Real-time inventory management
+- Secure payment integration
+- Smooth checkout experience
+- Product catalog management
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtanveer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0"/>
-
-</div>
-
----
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abdullahtanveer&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE"/>
-
-</div>
+**Tech Stack:** Flutter • Dart • Firebase • Cross-platform development
 
 ---
 
-# 🏆 GITHUB TROPHIES
+### 🚀 SaaS Vision 2026
+**Building Tomorrow's Products**
 
-<div align="center">
+Currently developing AI-driven SaaS products and intelligent automation systems.
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahtanveer&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+**Goal:** Launch production SaaS products by end of 2026
 
-</div>
-
----
-
-# 🎯 2026 OBJECTIVES
-
-<div align="center">
-
-| Goal | Focus Area |
-|---|---|
-| 🚀 Launch SaaS Products | Production Deployment |
-| 🤖 Build AI Applications | Intelligent Systems |
-| 💼 Top Tech Internship / Role | Career Growth |
-| 🌍 Launch a Startup | Scalable Innovation |
-| 📱 Publish Mobile Apps | App Store & Google Play |
-
-</div>
+**Tech Stack:** Full Stack • AI/ML • Scalable Architecture
 
 ---
 
-# 🌐 CONNECT WITH ME
+## Technical Skills
 
-<div align="center">
+### Frontend Development
+- **Frameworks & Libraries:** React, Next.js, Vue.js
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Styling:** Tailwind CSS, Material UI, Responsive Design
+- **Tools:** Figma, VS Code
 
-<a href="mailto:iamabdullahtanveer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
-</a>
+### Backend & Database
+- **Runtime & Frameworks:** Node.js, Express.js, Python
+- **Databases:** MongoDB, Firebase, PostgreSQL
+- **APIs:** RESTful APIs, GraphQL, API Design
+- **Authentication:** JWT, OAuth, Session Management
 
-<a href="https://www.linkedin.com/in/abdullah-tanveer-570216338/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-</a>
+### Mobile Development
+- **Frameworks:** Flutter, React Native
+- **Languages:** Dart, JavaScript
+- **Features:** Cross-platform development, Native integration
+- **Platforms:** iOS, Android
 
-<a href="https://github.com/abdullahtanveer">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
+### AI & Machine Learning
+- **Languages:** Python
+- **Libraries:** TensorFlow, PyTorch, Scikit-learn
+- **Specialization:** Predictive modeling, LLM integration, ML pipelines
+- **Techniques:** Data preprocessing, Model evaluation, Feature engineering
 
-</div>
+### Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Cloud:** Firebase, AWS
+- **Development:** Docker, Postman, Vercel
+- **Collaboration:** Jira, Slack, Figma
 
 ---
 
-# 💭 PHILOSOPHY
+## Key Competencies
 
-<div align="center">
+| Area | Expertise |
+|------|-----------|
+| **Architecture** | Scalable system design, SaaS patterns, Microservices |
+| **Performance** | Optimization, Caching, Database indexing |
+| **Security** | Authentication, Authorization, Data protection |
+| **DevOps** | CI/CD, Deployment, Infrastructure |
+| **AI Integration** | LLM APIs, Model fine-tuning, AI workflows |
+| **Code Quality** | Clean code, Testing, Documentation |
 
-> ### *"The best software is invisible — it simply works and improves lives."*
+---
 
-<br/>
+## 2026 Roadmap
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,50:06B6D4,100:0F172A"/>
+- 🚀 **Launch SaaS Products** — Production-ready, revenue-generating applications
+- 🤖 **Build AI Applications** — Intelligent systems combining ML and full-stack development
+- 💼 **Secure Top Tech Role** — Engineer position at leading technology company
+- 🌍 **Launch Startup** — Build and scale a technology startup from idea to market
+- 📱 **Publish Mobile Apps** — Launch apps on App Store and Google Play Store
 
-</div>
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahtanveer&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtanveer&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Connect With Me
+
+- **Email:** [iamabdullahtanveer@gmail.com](mailto:iamabdullahtanveer@gmail.com)
+- **LinkedIn:** [Abdullah Tanveer](https://linkedin.com/in/abdullah-tanveer-570216338/)
+- **GitHub:** [@abdullahtanveer](https://github.com/abdullahtanveer)
+
+---
+
+## Philosophy
+
+> *The best software is invisible — it simply works and improves lives.*
+
+I believe in writing clean, maintainable code that scales. Every line of code should serve a purpose, and every product should deliver genuine value to its users.
+
+---
+
+**Last Updated:** 2026 | Open to collaboration on innovative projects
