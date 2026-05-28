@@ -206,17 +206,7 @@ Scalable Architecture • DevOps
 
 ---
 
-## 📈 GitHub Statistics
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahtanveer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d4ff&icon_color=8b5cf6&text_color=cbd5e1)](https://github.com/abdullahtanveer)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahtanveer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d4ff&text_color=cbd5e1)](https://github.com/abdullahtanveer)
-
-[![Contribution Streak](https://streak-stats.demolab.com?user=abdullahtanveer&theme=tokyonight&hide_border=true&background=0f172a&ring=00d4ff&fire=8b5cf6)](https://github.com/abdullahtanveer)
-
-</div>
 
 ---
 
