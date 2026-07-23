@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Abdullah+Tanveer" alt="Abdullah Tanveer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Abdullah+Tanveer" alt="Abdullah Tanveer"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=20&duration=3000&pause=500&color=CBD5E1&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+SaaS+Builder" alt="Tagline"/>
 
@@ -8,11 +8,7 @@
 
 ### 🚀 Building Scalable, Intelligent Digital Products
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ![Cyan](https://img.shields.io/badge/MERN%20Stack-00D4FF?style=for-the-badge&logo=node.js&logoColor=000000)
 ![Purple](https://img.shields.io/badge/AI%20Integration-8B5CF6?style=for-the-badge&logo=openai&logoColor=FFFFFF)
@@ -21,13 +17,18 @@
 
 </div>
 
----
+<br/>
 
 ## 🎯 About Me
+
+<table>
+<tr>
+<td>
 
 I'm a **full stack developer** and **AI engineer** passionate about building scalable, intelligent digital products that combine modern architecture, cutting-edge AI, and exceptional user experience.
 
 **What I Do:**
+
 - 🏗️ Design and build scalable MERN applications
 - 🤖 Integrate AI/ML models into production systems
 - 📱 Develop cross-platform mobile applications
@@ -35,16 +36,19 @@ I'm a **full stack developer** and **AI engineer** passionate about building sca
 
 **Current Mission:** Launch production-ready SaaS products and explore the intersection of full-stack development and machine learning.
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## ⭐ Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 StudyGenie AI
-
 **AI-Powered Education Platform**
 
 An intelligent study assistant that transforms how students learn.
@@ -63,10 +67,9 @@ Groq API • Tailwind CSS • LLM
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Churn Prediction System
-
 **Machine Learning Analytics Platform**
 
 Predictive solution to identify at-risk customers and improve retention.
@@ -87,10 +90,9 @@ Scikit-learn • Data Analysis
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Shamas Al Kananah
-
 **Premium E-Commerce Mobile App**
 
 Full-featured commerce application for hardware & electrical products.
@@ -109,10 +111,9 @@ Cross-Platform • Responsive
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 SaaS Vision 2026
-
 **Building Tomorrow's Products**
 
 Currently developing AI-driven SaaS products and intelligent automation systems.
@@ -134,48 +135,53 @@ Scalable Architecture • DevOps
 </tr>
 </table>
 
----
+<br/>
 
 ## 🛠 Technical Skills
 
 <div align="center">
 
-### 🎨 Frontend Development
+**🎨 Frontend Development**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,javascript" alt="Frontend Skills"/>
 
 **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **HTML5** • **CSS3** • **JavaScript**
 
----
+<br/>
 
-### ⚙️ Backend & Database
+**⚙️ Backend & Database**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postgresql,python" alt="Backend Skills"/>
 
 **Node.js** • **Express** • **MongoDB** • **Firebase** • **PostgreSQL** • **Python** • **RESTful APIs** • **GraphQL**
 
----
+<br/>
 
-### 📱 Mobile Development
+**📱 Mobile Development**
+
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills"/>
 
 **Flutter** • **Dart** • **React Native** • **Cross-Platform Dev** • **Native Integration**
 
----
+<br/>
 
-### 🤖 AI & Machine Learning
+**🤖 AI & Machine Learning**
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Skills"/>
 
 **Python** • **TensorFlow** • **PyTorch** • **Scikit-learn** • **LLM Integration** • **Predictive Modeling** • **ML Pipelines**
 
----
+<br/>
 
-### 🧰 Tools & Platforms
+**🧰 Tools & Platforms**
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman" alt="Tools"/>
 
 **Git** • **GitHub** • **Docker** • **VS Code** • **Figma** • **Postman** • **AWS** • **Vercel** • **Firebase**
 
 </div>
 
----
+<br/>
 
 ## 📊 Key Competencies
 
@@ -188,7 +194,7 @@ Scalable Architecture • DevOps
 | 🤖 **AI/ML** | LLM APIs, Model fine-tuning, AI workflows, Data preprocessing |
 | 📝 **Code Quality** | Clean code principles, Testing (Unit/Integration), Documentation |
 
----
+<br/>
 
 ## 🎯 2026 Roadmap
 
@@ -204,13 +210,11 @@ Scalable Architecture • DevOps
 
 </div>
 
----
-
-
-
----
+<br/>
 
 ## 🌟 Highlights
+
+<div align="center">
 
 ```
 ✨ 5+ Production Projects Shipped
@@ -221,7 +225,9 @@ Scalable Architecture • DevOps
 💯 100% Committed to Excellence
 ```
 
----
+</div>
+
+<br/>
 
 ## 📚 Recent Learning Focus
 
@@ -231,18 +237,15 @@ Scalable Architecture • DevOps
 - **ML/Data Science** - Predictive modeling and data analysis
 - **DevOps & CI/CD** - Automated deployment pipelines
 
----
+<br/>
 
 ## 💬 Let's Connect!
 
 <div align="center">
 
 ### I'm always open to collaborations on:
-- 🎯 Innovative SaaS products
-- 🤖 AI-driven applications
-- 💼 Full-stack development projects
-- 📱 Mobile app development
-- 🌍 Startup ideas and ventures
+
+🎯 Innovative SaaS products &nbsp;•&nbsp; 🤖 AI-driven applications &nbsp;•&nbsp; 💼 Full-stack development projects &nbsp;•&nbsp; 📱 Mobile app development &nbsp;•&nbsp; 🌍 Startup ideas and ventures
 
 <br/>
 
@@ -254,7 +257,7 @@ Scalable Architecture • DevOps
 
 </div>
 
----
+<br/>
 
 ## 🏆 Philosophy
 
@@ -275,7 +278,7 @@ I believe in writing:
 
 **Let's build something amazing together.** 🚀
 
----
+<br/>
 
 *© 2026 Abdullah Tanveer | Full Stack Developer & AI Engineer*
 
